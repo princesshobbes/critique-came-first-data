@@ -1,6 +1,6 @@
 # critique-came-first-data
 
-Data and code for Gilly, T. (2026). *The Critique Came First: Citation and Authorship Continuity in Academic Challenges to the Youth Social Media Harm Thesis Before and After Meta's March 2023 Notes*. Working paper, Real Safety AI Foundation.
+Data and code for Gilly, T. (2026). *The Critique Came First: Citation and Authorship Continuity in Academic Challenges to the Youth Social Media Harm Thesis Before and After Meta's March 2023 Notes*. Working paper, Real Safety AI Foundation. https://doi.org/10.68481/rs95tu
 
 The paper tests whether academic critique of the claim that smartphones and social media drove the rise in adolescent depression and anxiety changed after Meta's internal notes of 7 and 8 March 2023. Methods, coding rules and limitations are in the paper.
 
